@@ -1,6 +1,6 @@
 Introduction and Applied Ideas:
 
-For this project, I take on the role of someone that is taking supplied data and preparing/processing it so that visualizations can be drafted from it. From a technical 
+For this project, I take supplied data and prepare/processe it so that visualizations can be drafted from it. From a technical 
 standpoint, I experimented with various means of formatting and processing data in dataframes, using functions/ideas including the following:
 - Reformatting columns as factors
 - Understanding Factor Variable Traps
@@ -13,8 +13,8 @@ standpoint, I experimented with various means of formatting and processing data 
 
 Project Overview:
 
-You have been hired by the “Future 500” magazine. The stakeholders have supplied you a list of 500 companies* and would like you to create some draft visualizations
-for their upcoming online publication. They have requested the following charts:
+With an aggregated list of Fortune 500 companies* (including revenue, expenses, profit, growth, etc. data), visualizations were drafted in accordance with 
+the following charts:
 
 • A scatterplot classified by industry showing revenue, expenses, profit
 
