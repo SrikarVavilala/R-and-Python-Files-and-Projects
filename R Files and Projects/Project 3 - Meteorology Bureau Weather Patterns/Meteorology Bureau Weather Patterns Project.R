@@ -1,5 +1,4 @@
 #Srikar Vavilala
-#11/08/2020
 #Understanding/using the Apply() family of functions
 # "Weather Patterns meteorology bureau" project
 
