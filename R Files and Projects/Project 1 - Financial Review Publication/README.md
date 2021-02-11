@@ -1,6 +1,6 @@
 Introduction and Applied Ideas:
 
-For this project, I take supplied data and prepare/processe it so that visualizations can be drafted from it. From a technical 
+For this project, I take supplied data and prepare/processe it so that visualizations could be drafted from it. From a technical 
 standpoint, I experimented with various means of formatting and processing data in dataframes, using functions/ideas including the following:
 - Reformatting columns as factors
 - Understanding Factor Variable Traps
