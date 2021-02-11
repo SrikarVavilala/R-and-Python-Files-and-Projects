@@ -1,5 +1,4 @@
 #Srikar Vavilala
-#10/18/2020
 #Understanding and using Lists
 # "Coal Terminal machine-utilization" project
 
