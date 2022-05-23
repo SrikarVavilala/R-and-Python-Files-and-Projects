@@ -2,7 +2,7 @@ Introduction and Applied Ideas:
 
 For this project, I inspect a month's worth of data for heavy machines that are used at a coal terminal and format it in lists to understand the usage capacity of the
 machines over time. This data is in Time-Series/Date-Time format, and I experimented with such data as well as lists, using functions/ideas including the following:
-- Deriving a utilization column and rearranding columns within a dataframe
+- Deriving a utilization column and rearranging columns within a dataframe
 - Handling Date-Time data with POSIXct
 - Constructing, manipulating columns of, and extracting values of lists
 - Building a timeseries plot for all machines to visualize data utilization over standardized time
