@@ -1,6 +1,6 @@
 Introduction and Applied Ideas:
 
-For this project, I inspect a meterological data for four different cities in the United States. After reading them to dataframes, conversions are done to work with the data
+For this project, I inspect a meteorological data for four different cities in the United States. After reading them to dataframes, conversions are done to work with the data
 in the format lists and matrices in order to apply mathematical functions to them and create tables with useful insights. I experimented with such data, as well as lists, 
 using functions/ideas including the following:
 - Aggregating the various dataframes into a list
